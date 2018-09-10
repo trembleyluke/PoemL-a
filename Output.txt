@@ -1,0 +1,20 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=61548:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/LukeTrembley/IdeaProjects/Poem l(a/out/production/Poem l(a" Main
+l(a
+ 
+ 
+le
+af
+fa
+ 
+ 
+ll
+ 
+ 
+s)
+one
+l
+ 
+ 
+iness
+
+Process finished with exit code 0
